@@ -1,0 +1,92 @@
+{
+  "nonce": "0x0",
+  "timestamp": "0x58ee40ba",
+  "extraData": "0xf9014da00000000000000000000000000000000000000000000000000000000000000000f9012694f1efc570c383b37a5f39ecd6db0421bfbd26d335948723d3ffdb1d60248573484bee52fcdbbc8df83c94d96bfc467b17a3ed8e2a32573de5e941b06c6ec69464cd1355d727bf879a42440f0e3a18b3610343349442a5c709af0d7f103e1efaf9d3cb65259c58895794c12ac390908a192dbc38f1d3ad7d992ecd6b8a7a94f24de61299ed9e02257be99864733ecb4cb7e91894c13c9b673dbc4a589cd3ac50ec9306aec453ebbd94a8271f6d3d32196bf1a4b80369249e89c540d09694affe99e2a20119f9b92d65caa72052f54770a87e948bdadb7ced8ad56bd10ddef0ad51c2c0ae1369f894a634cc2a9a18f2a099114b2c0a6b275f9b96e2d094735257938b35f0c06a5fb77d6dcb552a62804943949d15d754e5362b83865f63b04833a22b225463c2c080c0",
+  "gasLimit": "0x33450",
+  "gasUsed": "0x0",
+  "number": "0x0",
+  "difficulty": "0x1",
+  "coinbase": "0x0000000000000000000000000000000000000000",
+  "mixHash": "0x63746963616c2062797a616e74696e65206661756c7420746f6c6572616e6365",
+  "parentHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+  "config": {
+    "chainId": 45,
+    "homesteadBlock": 0,
+    "eip150Block": 0,
+    "eip150Hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "eip155Block": 0,
+    "eip158Block": 0,
+    "byzantiumBlock": 0,
+    "constantinopleBlock": 0,
+    "isQuorum": true,
+    "maxCodeSizeConfig": [
+      {
+        "block": 0,
+        "size": 128
+      }
+    ],
+    "txnSizeLimit": 128,
+    "istanbul": {
+      "policy": 0,
+      "epoch": 15000,
+      "ceil2Nby3Block": 0,
+      "testQBFTBlock": 0
+    }
+  },
+  "alloc": {
+    "fe3b557e8fb62b89f4916b721be55ceb828dbd73": {
+      "balance": "90000000000000000000000",
+      "comment": "test account from quorum-dev-quickstart -- please remove me before entering production"
+    },
+    "f17f52151EbEF6C7334FAD080c5704D77216b732": {
+      "balance": "90000000000000000000000",
+      "comment": "test account from quorum-dev-quickstart -- please remove me before entering production"
+    },
+    "627306090abaB3A6e1400e9345bC60c78a8BEf57": {
+      "balance": "90000000000000000000000",
+      "comment": "test account from quorum-dev-quickstart -- please remove me before entering production"
+    },
+    "0xf54015f4af7028cca713a7d34e27b53539294114": {
+      "balance": "1000000000000000000000000000"
+    },
+    "0x728d7656bf9ffa539bef713144dadefb1812a461": {
+      "balance": "1000000000000000000000000000"
+    },
+    "0x4a0a35ca4ab7798de2f855f4e09074cfbe692df9": {
+      "balance": "1000000000000000000000000000"
+    },
+    "0x1c45ad6565b9715489c00bb9022b4589e1e65d38": {
+      "balance": "1000000000000000000000000000"
+    },
+    "0xe3cdc3c8a4eadc505aa2d76a79928cc1034f983a": {
+      "balance": "1000000000000000000000000000"
+    },
+    "0x201ffb3413229e7231a324f33e06b1c0a60c62e3": {
+      "balance": "1000000000000000000000000000"
+    },
+    "0xd79e24db1b8e824647b0751ab0d126b4d1e78b1a": {
+      "balance": "1000000000000000000000000000"
+    },
+    "0x4c28fdcac78bf67a5ad8530dc5fc2b02082921f5": {
+      "balance": "1000000000000000000000000000"
+    },
+    "0x70d0138c2cd88ca3db9f6af1c5f111d84d05762b": {
+      "balance": "1000000000000000000000000000"
+    },
+    "0xa27f224d264fdd1556bbbe6e373da4d48719abd1": {
+      "balance": "1000000000000000000000000000"
+    },
+    "0x03e092ee7959a1975965154b0a5aa7b6143f0a7d": {
+      "balance": "1000000000000000000000000000"
+    },
+    "0x8ff218901af253fd0c625cd9873bb79e92c0c2d9": {
+      "balance": "1000000000000000000000000000"
+    },
+    "0x3dcd4c557942eb22d2911a4e606cfa5525dbf4a5": {
+      "balance": "1000000000000000000000000000"
+    },
+    "0x90747bace0b7326b9fd63fbfd4461d6ee1e31123": {
+      "balance": "1000000000000000000000000000"
+    }
+  }
+}
